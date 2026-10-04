@@ -276,6 +276,6 @@ This confirmed successful **end-to-end communication** between the web, applicat
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Pooja Daingade**
